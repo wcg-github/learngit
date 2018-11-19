@@ -1,4 +1,4 @@
 git is a distributeed version control system
 git is free software distributed under the GPL
 git so instristing
-git tracks changs
+git tracks changs of files
